@@ -20,5 +20,5 @@ Ireo fampanantenana nolazain'ny prezdà Andry Rajoelina, aiza hoaiza izy izao ?
 | Tramway                              | Propagande  | :x:                |
 | Miami                                | Propagande  | :x:                |
 | Tanamasoandro                        | Propagande  | :x:                |
-| Kianja Barea                         | Kabary TVM  | :sunrise:          |
+| Kianja Barea                         | Kabary TVM  | :heavy_check_mark: |
 | EPP Misy parking                     | Propagande  | :x:                |
